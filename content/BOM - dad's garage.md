@@ -8,7 +8,7 @@
 [Sam's Club Garage Shelving](https://www.samsclub.com/b/garage-shelving/1067)  
 [Seville Rolling Chrome Shelves](https://www.sevilleclassics.com/collections/shelving)  
 - chrome does not rust
-- rolling
+- rolling  
 [Home Depot 6 Tier Chrome Shelving](https://www.homedepot.com/p/HDX-6-Tier-Commercial-Grade-Heavy-Duty-Steel-Wire-Shelving-Unit-in-Chrome-48-in-W-x-72-in-H-x-18-in-D-HD18481302PS-1/203846551)  
 - chrome
 - not rolling, more stable?
@@ -29,7 +29,7 @@
 # Rolling Stool (with Backrest)
 [Rolling Shop Stool](https://www.amazon.com/FreekyFit-Rolling-DO02-Adjustable-Capacity-Mechanic/dp/B0CD4GFZ3Z?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&th=1)  
 [Swivel Stool](https://www.northerntool.com/products/northern-tool-xl-series-oversized-adjustable-swivel-shop-stool-with-backrest-steel-400-lb-capacity-27-1-2-to-32in-seat-height-61228?srsltid=AfmBOooa8OXyKYL8VgXFUD42o8-KU5jz1RgN5bvuQXlLjXj3J7j5b1yJDCo)  
-- Does not roll
+- Does not roll  
 [Jegs Shop Stool](https://www.jegs.com/i/JEGS/555/81174/10002/-1)  
 # Wall Tool Storage
 [Harbor Freight Magnetic Tool Holder](https://www.harborfreight.com/18-in-magnetic-tool-holder-60433.html?utm_source=google&utm_medium=cpc&utm_campaign=21901739426&campaignid=21901739426&utm_content=173216738631&adsetid=173216738631&product=60433&store=134&gad_source=1&gad_campaignid=21901739426&gbraid=0AAAAADAHb4elKooFDSpFCrN398930yjif&gclid=Cj0KCQjw0qTCBhCmARIsAAj8C4ZFsfjRyOUnxVg-0EG22C6suIYV3PzFixC3koREanNRymUIS-jHRygaAtjeEALw_wcB)  
@@ -47,18 +47,20 @@
 ###### Wall Mounted
 - use gusset brackets for additional stability
 - wall mounted work bench top metal brackets
-> 8’ x 2’ x 1.5” thick oak butcher block slabs can be purchased at Lumber Liquidators near me for $220. Get some serious brackets and lag bolts and mount to the wall. I used Rockler’s 15”x21” 1,000lbs steel brackets with 1/4” 2.5” long lags.
+>[!Quote] 
+>8’ x 2’ x 1.5” thick oak butcher block slabs can be purchased at Lumber Liquidators near me for $220. Get some serious brackets and lag bolts and mount to the wall. I used Rockler’s 15”x21” 1,000lbs steel brackets with 1/4” 2.5” long lags.
+
 ![[Pasted image 20250611114735.png]]
 ![[Pasted image 20250611114758.png]]
 ![[Pasted image 20250611114817.png]]
 ![[Pasted image 20250611114832.png]]
 # Overhead Storage
 ### Options
-[SafeRacks 4' x 8' Overhead Garage Storage Rack](https://saferacks.com/products/4x8-overhead-garage-storage-rack)  
-- only $175 currently on sale
-- [costco bundle for 2 racks](https://www.costco.com/saferacks-overhead-garage-storage-combo-kit%2c-two-4-ft.-x-8-ft.-racks%2c-18-piece-deluxe-hook-accessory-pack.product.100133736.html)  
 [Adjustable Height Overhead Ceiling Mount 96 in. W x 48 in. D](https://www.homedepot.com/p/FLEXIMOUNTS-Adjustable-Height-Overhead-Ceiling-Mount-Garage-Rack-in-Black-96-in-W-x-48-in-D-GR48B-E/321057446)  
 [VersaRac 4 ft. x 8 ft. Adjustable Overhead Rack](https://ca.shopnewage.com/products/overhead-ceiling-rack-40151?variant=32197262289)  
+[SafeRacks 4' x 8' Overhead Garage Storage Rack](https://saferacks.com/products/4x8-overhead-garage-storage-rack)  
+- only $175 currently on sale  
+- [costco bundle for 2 racks](https://www.costco.com/saferacks-overhead-garage-storage-combo-kit%2c-two-4-ft.-x-8-ft.-racks%2c-18-piece-deluxe-hook-accessory-pack.product.100133736.html)  
 ### Purpose
 - Seems to be best for Seasonal Lightweight but large items.
 	- **Outdoor Sofas and Cushions!**
