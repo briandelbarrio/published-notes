@@ -72,7 +72,7 @@
 ###### Wall Mounted
 
 * use gusset brackets for additional stability
-* wall mounted work bench top metal brackets
+* wall mounted work bench top metal brackets![[Pasted image 20250611205318.png]]
 
  > 
  > \[!Quote\]
