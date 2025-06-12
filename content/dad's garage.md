@@ -43,14 +43,12 @@
   * [link to medical surplus](https://www.govplanet.com/Medical+Supplies)
 * Military Surplus Carts
 
-# Rolling Stool (with Backrest)
-
+# Rolling Stool (with Backrest)  
 [Rolling Shop Stool](https://www.amazon.com/FreekyFit-Rolling-DO02-Adjustable-Capacity-Mechanic/dp/B0CD4GFZ3Z?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&th=1)  
 [Swivel Stool](https://www.northerntool.com/products/northern-tool-xl-series-oversized-adjustable-swivel-shop-stool-with-backrest-steel-400-lb-capacity-27-1-2-to-32in-seat-height-61228?srsltid=AfmBOooa8OXyKYL8VgXFUD42o8-KU5jz1RgN5bvuQXlLjXj3J7j5b1yJDCo)
 * Does not roll  
 
-[Jegs Shop Stool](https://www.jegs.com/i/JEGS/555/81174/10002/-1)
-
+[Jegs Shop Stool](https://www.jegs.com/i/JEGS/555/81174/10002/-1)  
 # Wall Tool Storage
 
 [Harbor Freight Magnetic Tool Holder](https://www.harborfreight.com/18-in-magnetic-tool-holder-60433.html?utm_source=google&utm_medium=cpc&utm_campaign=21901739426&campaignid=21901739426&utm_content=173216738631&adsetid=173216738631&product=60433&store=134&gad_source=1&gad_campaignid=21901739426&gbraid=0AAAAADAHb4elKooFDSpFCrN398930yjif&gclid=Cj0KCQjw0qTCBhCmARIsAAj8C4ZFsfjRyOUnxVg-0EG22C6suIYV3PzFixC3koREanNRymUIS-jHRygaAtjeEALw_wcB)  
