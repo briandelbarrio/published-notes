@@ -15,3 +15,5 @@ this is not
 last one
 ![[../public/static/Pasted image 20250319085559.png]]
 lets try again
+![[public/static/Pasted image 20241218212702.png]]
+truck truck truck
