@@ -7,3 +7,4 @@ this is a test of the functionality of quartz. I am hoping this will be amazing
 - test
 - test 2
 - test 3
+![[Screenshot 2025-05-02 100119.png]]
