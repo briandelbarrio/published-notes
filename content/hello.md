@@ -19,3 +19,5 @@ lets try again
 truck truck truck
 ![[content/assets/Pasted image 20250215200725.png]]
 hello
+![[assets/Pasted image 20250215200725.png]]
+one more tIME
