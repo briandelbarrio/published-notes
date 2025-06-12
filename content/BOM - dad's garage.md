@@ -27,6 +27,7 @@
 * used store shelves
 * Buy Kitchen Cabinets from Habitat for Humanity ReStore Elgin
 * Kitty Litter Bucket Storage
+
   ![[assets/Pasted image 20250611220313.png]]
 
 # Rolling Carts/Toolbox
@@ -46,9 +47,8 @@
 
 [Rolling Shop Stool](https://www.amazon.com/FreekyFit-Rolling-DO02-Adjustable-Capacity-Mechanic/dp/B0CD4GFZ3Z?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&th=1)  
 [Swivel Stool](https://www.northerntool.com/products/northern-tool-xl-series-oversized-adjustable-swivel-shop-stool-with-backrest-steel-400-lb-capacity-27-1-2-to-32in-seat-height-61228?srsltid=AfmBOooa8OXyKYL8VgXFUD42o8-KU5jz1RgN5bvuQXlLjXj3J7j5b1yJDCo)
-
 * Does not roll  
-  [Jegs Shop Stool](https://www.jegs.com/i/JEGS/555/81174/10002/-1)
+[Jegs Shop Stool](https://www.jegs.com/i/JEGS/555/81174/10002/-1)
 
 # Wall Tool Storage
 
