@@ -27,7 +27,7 @@
 * used store shelves
 * Buy Kitchen Cabinets from Habitat for Humanity ReStore Elgin
 * Kitty Litter Bucket Storage
-  ![Pasted image 20250611122920.png](..\..\03%20Resources\Assets\Pasted%20image%2020250611122920.png)![[assets/Pasted image 20250611220313.png]]
+  ![[assets/Pasted image 20250611220313.png]]
 
 # Rolling Carts/Toolbox
 
@@ -77,11 +77,9 @@
 
  > \[!Quote\]
  > 8’ x 2’ x 1.5” thick oak butcher block slabs can be purchased at Lumber Liquidators near me for $220. Get some serious brackets and lag bolts and mount to the wall. I used Rockler’s 15”x21” 1,000lbs steel brackets with 1/4” 2.5” long lags.
+ 
+ 
 ![[assets/Pasted image 20250611220354.png]]
-![Pasted image 20250611114735.png](..\..\03%20Resources\Assets\Pasted%20image%2020250611114735.png)
-![Pasted image 20250611114758.png](..\..\03%20Resources\Assets\Pasted%20image%2020250611114758.png)
-![Pasted image 20250611114817.png](..\..\03%20Resources\Assets\Pasted%20image%2020250611114817.png)
-![Pasted image 20250611114832.png](..\..\03%20Resources\Assets\Pasted%20image%2020250611114832.png)
 ![[assets/Pasted image 20250611220402.png]]
 ![[assets/Pasted image 20250611220411.png]]
 ![[assets/Pasted image 20250611220414.png]]
@@ -104,10 +102,8 @@
 ### Potential Weight Concerns
 
 * added 2x4 vertical supports along the back wall providing additional support
-  ![Pasted image 20250611113723.png](..\..\03%20Resources\Assets\Pasted%20image%2020250611113723.png)![[assets/Pasted image 20250611220423.png]]
+  ![[assets/Pasted image 20250611220423.png]]
 
 ### Examples
-
-![how-useful-are-overhead-garage-storage-racks-v0-9o6nlpxms8lc1 1.webp](..\..\03%20Resources\Assets\how-useful-are-overhead-garage-storage-racks-v0-9o6nlpxms8lc1%201.webp)
-![how-useful-are-overhead-garage-storage-racks-v0-55vr3cwsx8lc1.webp](..\..\03%20Resources\Assets\how-useful-are-overhead-garage-storage-racks-v0-55vr3cwsx8lc1.webp)
 ![[assets/how-useful-are-overhead-garage-storage-racks-v0-9o6nlpxms8lc1 1.webp]]![[assets/how-useful-are-overhead-garage-storage-racks-v0-55vr3cwsx8lc1.webp]]
+brain's new version
