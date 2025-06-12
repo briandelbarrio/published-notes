@@ -13,3 +13,5 @@ this is real
 this is not 
 ![[0_xzLu-2Wkw7A_6cZv.jpg]]
 last one
+![[../public/static/Pasted image 20250319085559.png]]
+lets try again
