@@ -17,3 +17,5 @@ last one
 lets try again
 ![[public/static/Pasted image 20241218212702.png]]
 truck truck truck
+![[content/assets/Pasted image 20250215200725.png]]
+hello
