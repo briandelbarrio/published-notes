@@ -21,4 +21,3 @@
 	   * 9/4/25 - 9/7/25  
 	   * 5 min walk from 3-Line, 8 min walk from 5-Line  
 5. [BK Boko](https://www.airbnb.com/rooms/1025674753621522316?adults=6&guests=8&search_mode=regular_search&check_in=2025-09-11&check_out=2025-09-14&source_impression_id=p3_1749748105_P3LL4yMR8zW2lMnC&previous_page_section_name=1000&federated_search_id=847d9775-25f0-486e-a125-09b78af1b849)  
-	-   
