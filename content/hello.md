@@ -8,3 +8,6 @@ this is a test of the functionality of quartz. I am hoping this will be amazing
 - test 2
 - test 3
 ![[Screenshot 2025-05-02 100119.png]]
+this is real
+![[c2059d7c90834c1eac9572f09433e80f.webp]]
+this is not 
