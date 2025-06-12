@@ -21,3 +21,9 @@ truck truck truck
 hello
 ![[assets/Pasted image 20250215200725.png]]
 one more tIME
+![[content/assets/Pasted image 20250225095314.png]]
+testing testingggg
+![[assets/Pasted image 20250221130420.png]]
+test 2 
+![[assets/Pasted image 20250302081153.png]]
+automatic test^
