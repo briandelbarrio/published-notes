@@ -9,3 +9,5 @@ title: Brian's Published Notes (Public)
 - [[scratchpad]]  
 - [[dad's garage]]  
 - [[NYC Trip Search]]
+
+*link*
