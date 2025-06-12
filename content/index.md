@@ -6,6 +6,5 @@ title: Brian's Published Notes (Public)
 - Tutorials/instructions, tasks, or just updates.
 - I don't really know what this will be yet, but we will find out together.
 # Index
-[[Testing]]
-[[BOM - dad's garage first try]]
-[[BOM - dad's garage]]
+[[Scratchpad]]  
+[[BOM - dad's garage]]  
