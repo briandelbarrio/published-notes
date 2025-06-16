@@ -1,3 +1,4 @@
+![[assets/Pasted image 20250616114748.png]]
 >[!Warning]
 >Si van a rentar un carro, necesitan applicar por una [licensia internacional](https://www.aaa-idp.com/) lo mas pronto possible.
 ## Locations
