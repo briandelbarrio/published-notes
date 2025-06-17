@@ -35,7 +35,7 @@
 - [Pantheon](https://maps.app.goo.gl/YQj8CEmJSaAD3cFEA)
 - [Trevi Fountain](https://maps.app.goo.gl/vJ4RuEqPa1DHYbn56)
 - [Colosseo](https://maps.app.goo.gl/3kaC4gNz6EtZysYdA)
+- [Foro Romano](https://maps.app.goo.gl/uS9sWyBxPdmFFcJ28)
 - [Dar Poeta - Pizza](https://maps.app.goo.gl/w9G6PyaaLDC3vXGB8)
 ###### Pisa
 - [Cattedrale di Pisa](https://maps.app.goo.gl/AacoTc9YsoA48KUJ8)
-- [Foro Romano](https://maps.app.goo.gl/uS9sWyBxPdmFFcJ28)
